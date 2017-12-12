@@ -7,7 +7,7 @@ Just configure config.py and set your bot token, group_id and your_id(from @user
 
 By adding this bot to a public group, all of messages from group send to this bot and your messages to the bot send to public group.
 
-Run this bot by python3 pythontelegrambotgroup.py
+Run this bot by python3 pythonTelegramBotGroup.py
 
 ## required package
 python-telegram-bot
