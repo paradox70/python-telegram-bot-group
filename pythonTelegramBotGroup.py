@@ -5,7 +5,7 @@ import config
 
 TOKEN = config.ids['token']	#pythonTelegramGroup_bot
 admin_id = config.ids['your_id']
-group_id = config.ids['group_ids']
+group_id = config.ids['group_id']
 #join_chat_link = 'https://telegram.me/joinchat/AAAAAEi8EwLY8ejWyIoErQ'
 
 #database connector
